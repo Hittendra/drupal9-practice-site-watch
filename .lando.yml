@@ -1,0 +1,4 @@
+name: project_1
+recipe: drupal9
+config:
+  webroot: .
